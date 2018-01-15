@@ -14,7 +14,7 @@ setup(
   author = 'Ankan Das',
   author_email = 'ankandas2222@gmail.com',
   url = 'https://github.com/AnkanDas22/pydiv',
-  download_url = 'https://github.com/peterldowns/mypackage/archive/0.1.tar.gz',
+  download_url = 'https://github.com/AnkanDas22/pydiv/archive/1.0.tar.gz',
   keywords = ['testing', 'logging', 'example'],
   classifiers = [],
 )
