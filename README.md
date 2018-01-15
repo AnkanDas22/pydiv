@@ -1,6 +1,9 @@
 # I am pydiv!
 
 ----
+Install pydiv by typing this in Command Prompt:
+    pip install pydiv
+
 ## Available functions?
 
 Integer Return:-
