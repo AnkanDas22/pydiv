@@ -2,6 +2,7 @@
 
 ----
 Install pydiv by typing this in Command Prompt:
+
     pip install pydiv
 
 ## Available functions?
