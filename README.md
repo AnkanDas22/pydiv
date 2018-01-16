@@ -1,6 +1,9 @@
 # I am pydiv!
 
 ----
+
+Get division forms for decimal numbers. Get numerator upon denominator forms for decimal numbers.
+
 Install pydiv by typing this in Command Prompt:
 
     pip install pydiv
