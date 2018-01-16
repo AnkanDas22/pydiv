@@ -2,7 +2,9 @@
 
 ----
 
-Get division forms for decimal numbers. Get numerator upon denominator forms for decimal numbers.
+**Get all possible Numerator/Denominator combinations for a decimal number**
+
+Python module/package for getting division forms for decimal numbers. Python module/package for getting numerator upon denominator forms for decimal numbers.
 
 Install pydiv by typing this in Command Prompt:
 
